@@ -1,5 +1,6 @@
 .env
 .env.local
+.env.template
 *.log
 *.pyc
 .DS_Store
